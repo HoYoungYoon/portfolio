@@ -18,17 +18,6 @@ SNS처럼  사용자간의  정보공유
 * Server 연동 및 액션처리 : Android , Php , Json(HTTPrequest)
 * 성과 : 링크사업단 캡스톤 디자인 경연대회 은상, PlayStore 출시 목표로 창업동아리 설립
 
-### 프로젝트
-평창 데이터 센터 웹사이트 (바로가기)
-
-### 개요
-* 평창올림픽의 개최로 평창시의 소상공인 사업활성화를 위한 웹사이트
-
-### 내용
-* 개발기간 : 2016.10 ~ 2016.12(2 개월)
-* 참여도 : 개인프로젝트
-* 개발 Tool: Java, JSP, JavaScript, HTML5, Mysql, Apache Tomcat v7.0
- 
  
  ## 인턴쉽
  
@@ -41,7 +30,7 @@ SNS처럼  사용자간의  정보공유
  * 참여 프로젝트 :  허니문 플래너 앱 , Tinnitus Buster - 이명의 음악 요법 앱
  
  ### 허니문 플래너
-
+ PlayStore 바로가기
  * 개요 : 신혼부부들을 위한 허니문 플래너 (신혼여행 계획)
  * 참여기간 : 2016.12 ~ 2017.02
  * Fire Base Push (GCM) API 를 이용 Push 알림 : Android , NodeJs
