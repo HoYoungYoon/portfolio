@@ -30,27 +30,31 @@ SNS처럼  사용자간의  정보공유
 * 개발 Tool: Java, JSP, JavaScript, HTML5, Mysql, Apache Tomcat v7.0
  
  
- ## 인턴 
+ ## 인턴쉽
  
  ### 참여회사
- 
+ 이미지넣기
  렉트웍스 
  
  * 산업 : 응용소프트웨어 개발 및 공급업
  * 기간 : 2016.12 ~ 2017.02 & 2016.06 ~ 2016.08 (4 개월)
- * 참여 프로젝트 : 신혼부부들을 위한 허니문 플래너 앱 , 이명 환자들을 위한 음악 감상 치료 앱
+ * 참여 프로젝트 :  허니문 플래너 앱 , Tinnitus Buster - 이명의 음악 요법 앱
  
  ### 허니문 플래너
-    이미지 넣기
-  #### 참여기간 : 2016.12 ~ 2017.02
-  #### 참여업무 : 기능 모듈화 
+    PlayStore (바로가기)
+  * 개요 : 신혼부부들을 위한 허니문 플래너 (신혼여행 계획)
+  * 참여기간 : 2016.12 ~ 2017.02
   * Fire Base Push (GCM) API 를 이용 Push 알림 : Android , NodeJs
   * Google Map API를 이용한 사용자 반경 내 마커 확인 : Android 
   * OpenSSL 을 이용한 RSA 암호화 복호화 모듈 : Android, Openssl
   * FaceBook API, Google API 연동 로그인 : Android  
   * Google Map 을 지도 마커 삽입, 삭제, 수정 이용 관리자 사이트 : JQuery, JavaScript , HTML
  
-### 
+### Tinnitus Buster - 이명의 음악 요법
+   PlayStore (바로가기)
+   * 개요 : 이명 환자들을 위한 주파스 음악 감상 치료 앱
+   * 참여 기간 : 2016.06 ~ 2016.08 
+   * 
  
  
  
