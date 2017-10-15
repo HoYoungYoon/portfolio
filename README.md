@@ -8,14 +8,12 @@ AnyWhere APP
 SNS처럼  사용자간의  정보공유
  
 ### 내용
-* 참여도 : 70%
-* 기여내용 
-- 계획 총괄
-- Mixare(오픈소스 분석 및 확장)AR : Android
-- 5.0 ~ 6.0 SDK 각 버전 호환 : Android
-- Marker , Raider , Text or Screen 처리 : Android
-- GoogleMap 길찾기 및 MapView : Android(GoogleMap API)
-- Server 연동 및 액션처리 : Android , Php , Json(HTTPrequest)
-* 개발 Tool
-- APM 환경(Apache24 , Php6 , Mysql) , Android , Php 
+* 참여도 : 70% 
+* 계획 총괄
+* Mixare(오픈소스 분석 및 확장)AR : Android
+* 5.0 ~ 6.0 SDK 각 버전 호환 : Android
+* Marker , Raider , Text or Screen 처리 : Android
+* GoogleMap 길찾기 및 MapView : Android(GoogleMap API)
+* Server 연동 및 액션처리 : Android , Php , Json(HTTPrequest)
+* 개발 Tool: APM 환경(Apache24 , Php6 , Mysql) , Android , Php 
 
