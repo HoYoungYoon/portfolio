@@ -2,7 +2,7 @@
 
 ### 프로젝트
 
-syntax: [AnyWhere APP(바로가기)](https://github.com/HoYoungYoon/AnyWhere_AR)
+[AnyWhere APP(바로가기)](https://github.com/HoYoungYoon/AnyWhere_AR)
 ### 개요
 * 위치기반 AR 서비스 APP 언제 어디서나  찾고자 하는  데이터를  알수있으며,  
 SNS처럼  사용자간의  정보공유
@@ -30,7 +30,7 @@ SNS처럼  사용자간의  정보공유
  * 참여 프로젝트 :  허니문 플래너 앱 , Tinnitus Buster - 이명의 음악 요법 앱
  
  ### 허니문 플래너
- PlayStore 바로가기
+ [PlayStore 바로가기](https://play.google.com/store/apps/details?id=com.hanaro.honeymoon&hl=ko)
  * 개요 : 신혼부부들을 위한 허니문 플래너 (신혼여행 계획)
  * 참여기간 : 2016.12 ~ 2017.02
  * Fire Base Push (GCM) API 를 이용 Push 알림 : Android , NodeJs
@@ -40,9 +40,8 @@ SNS처럼  사용자간의  정보공유
  * Google Map 을 지도 마커 삽입, 삭제, 수정 이용 관리자 사이트 : JQuery, JavaScript , HTML
   
  ### Tinnitus Buster - 이명의 음악 요법
-
- PlayStore (바로가기)
-
+ [PlayStore (바로가기)](https://play.google.com/store/apps/details?id=app.tinnitus.mobile.tinnitus&hl=ko)
+ 
  * 개요 : 이명 환자들을 위한 주파스 음악 감상 치료 앱
  * 참여 기간 : 2016.06 ~ 2016.08 
  * 코드 리팩토링 및 Work Flow 작성
