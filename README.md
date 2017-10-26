@@ -1,11 +1,11 @@
 #  윤호영 포트폴리오
-### SkilSet
+## SkilSet
 **Language:**  JAVA, C, C++, Python, HTML, JSP, JavaScript<br>
 **DataBase:**  Mysql, MSsql<br>
 **System:**    Windows, Linux<br>
 **Tool:**      Eclipse , Android Studio ,Visual Studio 2015<br>
 
-### 프로젝트
+## 프로젝트
 
 [AnyWhere APP(바로가기)](https://github.com/HoYoungYoon/AnyWhere_AR)
 ### 개요
@@ -26,12 +26,13 @@ SNS처럼  사용자간의  정보공유
  
  ## 인턴쉽
  
- ### 참여회사
- #### 렉트웍스 
+ ## 참여회사
+ ### 렉트웍스 
  * 산업 : 응용소프트웨어 개발 및 공급업
  * 기간 : 2016.12 ~ 2017.02 & 2016.06 ~ 2016.08 (4 개월)
  * 참여 프로젝트 :  허니문 플래너 앱 , Tinnitus Buster - 이명의 음악 요법 앱
  
+ ## 참여 프로젝트
  ### 허니문 플래너
  [PlayStore 바로가기](https://play.google.com/store/apps/details?id=com.hanaro.honeymoon&hl=ko)
  * 개요 : 신혼부부들을 위한 허니문 플래너 (신혼여행 계획)
