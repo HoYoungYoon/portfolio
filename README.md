@@ -1,9 +1,9 @@
 #  윤호영 포트폴리오
 ### SkilSet
-**Language**      JAVA, C, C++, Python, HTML, JSP, JavaScript
-**DataBase**      Mysql, MSsql
-**System**        Windows, Linux
-**Tool**          Eclipse , Android Studio ,
+**Language:**  JAVA, C, C++, Python, HTML, JSP, JavaScript<br>
+**DataBase:**  Mysql, MSsql<br>
+**System:**    Windows, Linux<br>
+**Tool:**      Eclipse , Android Studio ,Visual Studio 2015<br>
 
 ### 프로젝트
 
