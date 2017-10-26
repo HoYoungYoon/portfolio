@@ -26,14 +26,14 @@ SNS처럼  사용자간의  정보공유
  
  ## 인턴쉽
  
- ## 참여회사
- ### 렉트웍스 
+ ### 참여회사
+ #### 렉트웍스 
  * 산업 : 응용소프트웨어 개발 및 공급업
  * 기간 : 2016.12 ~ 2017.02 & 2016.06 ~ 2016.08 (4 개월)
  * 참여 프로젝트 :  허니문 플래너 앱 , Tinnitus Buster - 이명의 음악 요법 앱
  
- ## 참여 프로젝트
- ### 허니문 플래너
+ ### 참여 프로젝트
+ #### 허니문 플래너
  [PlayStore 바로가기](https://play.google.com/store/apps/details?id=com.hanaro.honeymoon&hl=ko)
  * 개요 : 신혼부부들을 위한 허니문 플래너 (신혼여행 계획)
  * 참여기간 : 2016.12 ~ 2017.02
@@ -43,7 +43,7 @@ SNS처럼  사용자간의  정보공유
  * FaceBook API, Google API 연동 로그인 : Android  
  * Google Map 을 지도 마커 삽입, 삭제, 수정 이용 관리자 사이트 : JQuery, JavaScript , HTML
   
- ### Tinnitus Buster - 이명의 음악 요법
+ #### Tinnitus Buster - 이명의 음악 요법
  [PlayStore (바로가기)](https://play.google.com/store/apps/details?id=app.tinnitus.mobile.tinnitus&hl=ko)
  
  * 개요 : 이명 환자들을 위한 주파스 음악 감상 치료 앱
