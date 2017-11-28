@@ -2,7 +2,7 @@
 ## SkilSet
 **Language:**  JAVA, C, C++, Python, HTML, JSP, JavaScript<br>
 **DataBase:**  Mysql, MSsql<br>
-**System:**    Windows, Linux<br>
+**System:**    Windows<br>
 **Tool:**      Eclipse , Android Studio ,Visual Studio 2015<br>
 
 ## 프로젝트
@@ -15,7 +15,7 @@ SNS처럼  사용자간의  정보공유
 ### 내용
 * 개발기간 : 2017.1~ 2017.6(5 개월)
 * 참여도 : 70% 
-* 개발 Tool: APM 환경(Apache24 , Php6 , Mysql) , Android , Php 
+* 개발 Tool: APM 환경(Apache2.4 , Php5 , Mysql) , Android , Php 
 * Mixare(오픈소스 분석 및 확장)AR : Android
 * 5.0 ~ 6.0 SDK 각 버전 호환 : Android
 * Marker , Raider , Text or Screen 처리 : Android
@@ -37,9 +37,9 @@ SNS처럼  사용자간의  정보공유
  [PlayStore 바로가기](https://play.google.com/store/apps/details?id=com.hanaro.honeymoon&hl=ko)
  * 개요 : 신혼부부들을 위한 허니문 플래너 (신혼여행 계획)
  * 참여기간 : 2016.12 ~ 2017.02
- * Fire Base Push (GCM) API 를 이용 Push 알림 : Android , NodeJs
+ * Fire Base Push (FCM) API 를 이용 Push 알림 : Android , NodeJs
  * Google Map API를 이용한 사용자 반경 내 마커 확인 : Android 
- * OpenSSL 을 이용한 RSA 암호화 복호화 모듈 : Android, Openssl
+ * RSA, AES 암호화 복호화 모듈 : Android
  * FaceBook API, Google API 연동 로그인 : Android  
  * Google Map 을 지도 마커 삽입, 삭제, 수정 이용 관리자 사이트 : JQuery, JavaScript , HTML
   
